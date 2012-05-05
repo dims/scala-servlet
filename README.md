@@ -7,7 +7,7 @@ It also includes the Maven config for running Specs, plus an example.
 ## Common Commands
 
 * `mvn test` - runs the Specs.
-* `mvn jetty:run` - runs the app in Jetty.
+* `mvn jetty:run` - runs the app in Jetty (point your browser to http://localhost:8080/example/)
 * `mvn war:war` - builds a .war file for the app.
 
 ## What's Next?
